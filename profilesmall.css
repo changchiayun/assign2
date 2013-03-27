@@ -31,12 +31,14 @@ padding:1em;
 margin:10px 0px 10px 0px;
 } 
 
-input{
+a{
 background-color:#769489;
 color:#FFF;
+padding:5px 10px 5px 10px;
+text-decoration:none;
 font-family: 'Julius Sans One', ·L³n¥¿¶ÂÅé , Microsoft JhengHei ,sans-serif;
 }
-input:hover{
+a:hover{
 background-color:#CCCCCC;
 }
 
